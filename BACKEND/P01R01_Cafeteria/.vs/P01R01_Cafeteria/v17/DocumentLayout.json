@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\models\\dtos\\pedido\\actualizarestadopedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\models\\dtos\\pedido\\actualizarestadopedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\models\\dtos\\pedido\\pedidolistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\models\\dtos\\pedido\\pedidolistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\models\\dtos\\pedido\\productopedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\models\\dtos\\pedido\\productopedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\models\\dtos\\pedido\\crearpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\models\\dtos\\pedido\\crearpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\models\\pedidos_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\models\\pedidos_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\models\\dtos\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\models\\dtos\\pageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\models\\enums\\categoriaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\models\\enums\\categoriaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\models\\productos_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\models\\productos_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\models\\auditoriaproductos_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\models\\auditoriaproductos_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|c:\\proyects\\gennov\\proyectos\\p01r1_bd_ir\\backend\\p01r01_cafeteria\\p01r01_cafeteria\\context\\appbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447980BC-B532-4403-8E40-6F70BAF9F1E4}|P01R01_Cafeteria\\P01R01_Cafeteria.csproj|solutionrelative:p01r01_cafeteria\\context\\appbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwDsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T23:50:38.193Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActualizarEstadoPedidoDto.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Dtos\\Pedido\\ActualizarEstadoPedidoDto.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Models\\Dtos\\Pedido\\ActualizarEstadoPedidoDto.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Dtos\\Pedido\\ActualizarEstadoPedidoDto.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Models\\Dtos\\Pedido\\ActualizarEstadoPedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T08:56:38.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoListDto.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Dtos\\Pedido\\PedidoListDto.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Models\\Dtos\\Pedido\\PedidoListDto.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Dtos\\Pedido\\PedidoListDto.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Models\\Dtos\\Pedido\\PedidoListDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T08:39:56.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Program.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Program.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Program.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T18:17:37.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAIwL8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T19:56:21.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearPedidoDto.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Dtos\\Pedido\\CrearPedidoDto.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Models\\Dtos\\Pedido\\CrearPedidoDto.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Dtos\\Pedido\\CrearPedidoDto.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Models\\Dtos\\Pedido\\CrearPedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T08:39:59.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoPedidoDto.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Dtos\\Pedido\\ProductoPedidoDto.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Models\\Dtos\\Pedido\\ProductoPedidoDto.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Dtos\\Pedido\\ProductoPedidoDto.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Models\\Dtos\\Pedido\\ProductoPedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T08:40:02.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Productos_Bd.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Productos_Bd.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Models\\Productos_Bd.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Productos_Bd.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Models\\Productos_Bd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:12:08.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T19:42:23.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pedidos_Bd.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Pedidos_Bd.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Models\\Pedidos_Bd.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Pedidos_Bd.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Models\\Pedidos_Bd.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:12:14.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaProducto.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Enums\\CategoriaProducto.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Models\\Enums\\CategoriaProducto.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Enums\\CategoriaProducto.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Models\\Enums\\CategoriaProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T08:39:33.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PageResult.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Dtos\\PageResult.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Models\\Dtos\\PageResult.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\Dtos\\PageResult.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Models\\Dtos\\PageResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T14:57:46.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuditoriaProductos_Bd.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\AuditoriaProductos_Bd.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Models\\AuditoriaProductos_Bd.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Models\\AuditoriaProductos_Bd.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Models\\AuditoriaProductos_Bd.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wBIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:08:53.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppBdContext.cs",
+              "DocumentMoniker": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Context\\AppBdContext.cs",
+              "RelativeDocumentMoniker": "P01R01_Cafeteria\\Context\\AppBdContext.cs",
+              "ToolTip": "C:\\proyects\\GenNov\\PROYECTOS\\P01R1_BD_IR\\BACKEND\\P01R01_Cafeteria\\P01R01_Cafeteria\\Context\\AppBdContext.cs",
+              "RelativeToolTip": "P01R01_Cafeteria\\Context\\AppBdContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:15:15.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
